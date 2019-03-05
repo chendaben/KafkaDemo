@@ -1,4 +1,4 @@
-package basic;
+package com.cyq.basic;
 
 import java.util.HashMap;
 import java.util.Iterator;
@@ -12,7 +12,7 @@ import java.util.concurrent.ConcurrentHashMap;
  * 迭代器的了解
  * 各种遍历方法的效率比较
  */
-public class Collection {
+public class MapDemo {
 
     public static void main(String[] args) {
         Map<String,String> concurrentHashMap = new ConcurrentHashMap<>();

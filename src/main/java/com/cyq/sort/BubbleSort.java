@@ -1,4 +1,4 @@
-package sort;
+package com.cyq.sort;
 
 import java.util.Arrays;
 
